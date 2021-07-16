@@ -1,0 +1,6 @@
+Total Weight : 10431600
+Total Fee : 7485591
+
+Blocks:
+1. no_parent_sort_block : (Fee)2884784
+2. ratio_fee_by_weight : (Fee)4803206
